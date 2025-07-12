@@ -1,15 +1,19 @@
 # Hi there, I'm Kartavya! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&width=600&lines=Final-year+CS+student+%7C+AI+Researcher+%7C+Full-Stack+Engineer;Building+impactful+tech+for+education+%26+sustainability;Turning+research%2C+code%2C+and+creativity+into+reality."/>
+</p>
+
 > *"I thrive where innovation meets impact — turning AI and code into meaningful change."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Drkat0m&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=Drkat0m&label=Profile%20views&color=0e75b6&style=flat)](https://thekartavya.cs.in)
 
 ---
 
 ## 🌟 About Me
 
 - 🎓 Final-year **Computer Science major** at Penn State, with minors in **Mathematics** and **Information Sciences & Technology**.
-- 🏆 **President Walker Award**, **Sparks Award**, **Lockheed Martin Best Capstone**, **Dean’s List (all semesters)**.
+- 🏆 **President Walker & Sparks Award (Top 0.5%)**, **Lockheed Martin Best Capstone**, **Dean’s List (all semesters)**.
 - 🤖 Passionate about **AI**, **full-stack development**, **scientific computing**, and **educational technology**.
 - 📍 Based in University Park, PA | 📬 [kartavya26404@gmail.com](mailto:kartavya26404@gmail.com) | 🌐 [thekartavya.cs.in](https://thekartavya.cs.in)
 
@@ -26,8 +30,10 @@ Web app using AI and real-time APIs (GCP, OpenAI, Meteostat) to optimize crop de
 ### ⚛️ [NuGraph3 (UChicago DSI + Fermilab)](https://github.com/DrKat0m/NuGraph3)
 Developed a hierarchical GNN to reconstruct neutrino interactions in LArTPC detectors. Scaled training for 10+ TBs of MicroBooNE data, reducing training time by 75% through parallelization.
 
-### 📊 [Portfolio-AI](https://github.com/DrKat0m/portfolio-ai)
-AI-powered investment tool that uses market data, portfolio optimization, and interactive front-end with React and Python.
+### 🔐 [CipherGrid: Graph-Powered QR Encryption](https://github.com/DrKat0m/chipergrid)
+CipherGrid is a graphical QR code generation and decoding system that leverages graph theory, hashing (SHA-256), and algorithmic optimizations to enhance security and efficiency. It integrates graph algorithms with cryptographic hashing to ensure robust encryption and decryption, making it ideal for secure data transmission and authentication.
+
+I am currently expanding CipherGrid’s capabilities with error-correction methods to improve usability in low-bandwidth environments, ensuring reliable and efficient data retrieval under challenging conditions.
 
 ---
 
@@ -53,7 +59,7 @@ AI-powered investment tool that uses market data, portfolio optimization, and in
 
 ## 🏆 Awards
 
-- 🏅 **President Walker & Sparks Award** – Top 1% academic honor (2023, 2024)
+- 🏅 **President Walker & Sparks Award** – Top 0.5% academic honor (2023, 2024)
 - 🧠 **Bloomberg Sustainability Hack Winner** – PennApps XXIV, UPenn
 - 🛠️ **Best Capstone Project** – Lockheed Martin K–12 Award (EDURA)
 - 🧾 **Dean’s List** – Every semester
@@ -65,9 +71,3 @@ AI-powered investment tool that uses market data, portfolio optimization, and in
 [![LinkedIn](https://img.shields.io/badge/-drkat0m-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drkat0m/)
 [![Portfolio](https://img.shields.io/badge/-thekartavya.cs.in-000?style=flat&logo=firefox)](https://thekartavya.cs.in)
 [![Email](https://img.shields.io/badge/-kartavya26404@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartavya26404@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6600&center=true&width=440&lines=Always+building+something+impactful...;Crafting+tech+for+AI%2C+education%2C+and+beyond."/>
-</p>
