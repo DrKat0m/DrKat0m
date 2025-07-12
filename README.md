@@ -1,7 +1,7 @@
 # Hi there, I'm Kartavya! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&width=600&lines=Final-year+CS+student+%7C+AI+Researcher+%7C+Full-Stack+Engineer;Building+impactful+tech+for+education+%26+sustainability;Turning+research%2C+code%2C+and+creativity+into+reality."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&width=800&lines=Final-year+CS+student+%7C+AI+Researcher+%7C+Full-Stack+Engineer;Building+impactful+tech+for+education+%26+sustainability;Turning+research%2C+code%2C+and+creativity+into+reality."/>
 </p>
 
 > *"I thrive where innovation meets impact — turning AI and code into meaningful change."*
@@ -71,3 +71,7 @@ I am currently expanding CipherGrid’s capabilities with error-correction metho
 [![LinkedIn](https://img.shields.io/badge/-drkat0m-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drkat0m/)
 [![Portfolio](https://img.shields.io/badge/-thekartavya.cs.in-000?style=flat&logo=firefox)](https://thekartavya.cs.in)
 [![Email](https://img.shields.io/badge/-kartavya26404@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartavya26404@gmail.com)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A41D&center=true&width=800&lines=Let’s+connect,+collaborate,+and+create+impactful+tech.;Open+to+roles+in+AI,+software+engineering,+and+research!"/>
+</p>
