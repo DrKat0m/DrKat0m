@@ -31,9 +31,7 @@ Web app using AI and real-time APIs (GCP, OpenAI, Meteostat) to optimize crop de
 Developed a hierarchical GNN to reconstruct neutrino interactions in LArTPC detectors. Scaled training for 10+ TBs of MicroBooNE data, reducing training time by 75% through parallelization.
 
 ### 🔐 [CipherGrid: Graph-Powered QR Encryption](https://github.com/DrKat0m/Chipher-Grid)
-CipherGrid is a graphical QR code generation and decoding system that leverages graph theory, hashing (SHA-256), and algorithmic optimizations to enhance security and efficiency. It integrates graph algorithms with cryptographic hashing to ensure robust encryption and decryption, making it ideal for secure data transmission and authentication.
-
-I am currently expanding CipherGrid’s capabilities with error-correction methods to improve usability in low-bandwidth environments, ensuring reliable and efficient data retrieval under challenging conditions.
+CipherGrid is a graphical QR code generation and decoding system that leverages graph theory, hashing (SHA-256), and algorithmic optimizations to enhance security and efficiency. It integrates graph algorithms with cryptographic hashing to ensure robust encryption and decryption, making it ideal for secure data transmission and authentication. I am currently expanding CipherGrid’s capabilities with error-correction methods to improve usability in low-bandwidth environments, ensuring reliable and efficient data retrieval under challenging conditions.
 
 ---
 
