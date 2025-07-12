@@ -69,6 +69,7 @@ CipherGrid is a graphical QR code generation and decoding system that leverages 
 [![LinkedIn](https://img.shields.io/badge/-drkat0m-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drkat0m/)
 [![Portfolio](https://img.shields.io/badge/-thekartavya.cs.in-000?style=flat&logo=firefox)](https://thekartavya.cs.in)
 [![Email](https://img.shields.io/badge/-kartavya26404@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartavya26404@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919327140385)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A41D&center=true&width=800&lines=Let’s+connect,+collaborate,+and+create+impactful+tech.;Open+to+roles+in+AI,+software+engineering,+and+research!"/>
