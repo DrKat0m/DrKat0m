@@ -27,10 +27,10 @@ Moodle-integrated AI chatbot (GPT-4o + Whisper) for simulating 10-turn parent-te
 ### 🌱 [EcoHarvest: Sustainable Crop Selector](https://github.com/DrKat0m/EcoHarvest)
 Web app using AI and real-time APIs (GCP, OpenAI, Meteostat) to optimize crop decisions based on soil & weather analytics. Winner of **Bloomberg Sustainability Hack**, PennApps XXIV.
 
-### ⚛️ [NuGraph3 (UChicago DSI + Fermilab)](https://github.com/DrKat0m/NuGraph3)
+### ⚛️ [NuGraph3 (UChicago DSI + Fermilab)](https://github.com/nugraph/nugraph)
 Developed a hierarchical GNN to reconstruct neutrino interactions in LArTPC detectors. Scaled training for 10+ TBs of MicroBooNE data, reducing training time by 75% through parallelization.
 
-### 🔐 [CipherGrid: Graph-Powered QR Encryption](https://github.com/DrKat0m/chipergrid)
+### 🔐 [CipherGrid: Graph-Powered QR Encryption](https://github.com/DrKat0m/Chipher-Grid)
 CipherGrid is a graphical QR code generation and decoding system that leverages graph theory, hashing (SHA-256), and algorithmic optimizations to enhance security and efficiency. It integrates graph algorithms with cryptographic hashing to ensure robust encryption and decryption, making it ideal for secure data transmission and authentication.
 
 I am currently expanding CipherGrid’s capabilities with error-correction methods to improve usability in low-bandwidth environments, ensuring reliable and efficient data retrieval under challenging conditions.
